@@ -1,7 +1,7 @@
 {
-  "name": "MT-Rose-Bot-Model",
+  "name": "Viking-Elon-BOT",
   "description": "Viking Elon - Telegram's sassiest group manager. Modular Telegram group management bot!",
-  "logo": "https://raw.githubusercontent.com/VikingElon/MT-Rose-Bot-Model/main/velon-logo.png",
+  "logo": "https://raw.githubusercontent.com/VikingElon/Viking-Elon-BOT/main/velon-logo.png",
   "keywords": [
     "telegram",
     "best",
@@ -12,7 +12,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/VikingElon/MT-Rose-Bot-Model",
+  "repository": "https://github.com/VikingElon/Viking-Elon-BOT",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables. But, you need to understand the code to know what to set here!",
