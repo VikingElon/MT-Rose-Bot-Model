@@ -2,30 +2,14 @@
                                                   
 [![Join Channel !](https://badgen.net/badge/🔊%20Jᴏɪɴ%20/Cʜᴀɴɴᴇʟ/Black)](https://t.me/VikingElonToken)
 
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-  </a>
-<p align="center">
-  <a href="https://github.com/VikingElon/MT-Rose-Bot-Model/stargazers">
-    <img src="https://img.shields.io/github/stars/MRK-YT/MT-Rose-Bot-Model?style=social">
-
-  </a>
-  
-  <a href="https://github.com/VikingElon/MT-Rose-Bot-Model/fork">
-    <img src="https://img.shields.io/github/forks/MRK-YT/MT-Rose-Bot-Model?label=Fork&style=social">
-
-  </a>  
-</p>
-
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
 
-Can be found on telegram as [VikingElonDev](https://t.me/VikingElonDev).
-
-Join the [news channel](https://t.me/VikingElon_News) Viking Elon Token announcements.
+Can be found on telegram as [VikingElon_BOT](https://t.me/VikingElon_BOT).
+Join the [Viking Elon Token Group](https://t.me/VikingElonToken) Viking Elon Token Official Group.
+Join the [Viking Elon News Channel](https://t.me/VikingElon_News) Viking Elon Token announcements.
 
 To deploy me on heroku, use below button:
 
