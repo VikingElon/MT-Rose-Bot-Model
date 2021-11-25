@@ -21,9 +21,7 @@ PM_START_TEXT = """
 
 * Hi {}, my name is {}! *
 
-* I * [he] (tg://user?id={}) * is a cool admin bot. *
-
-* Viking Elon BOT is Official BOT of @VikingElonToken *
+* Official BOT of @VikingElonToken *
 
 * Press / help to know about available commands. *
 
@@ -147,7 +145,7 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton(text="⭕️ Command Help ⭕️", url="https://t.me/{}?start=help".format(bot.username))],
-                     [InlineKeyboardButton(text="📢 Official Channel", url="t.me/VikingElon_News"), InlineKeyboardButton(text="❣️ Official Group", url="t.me/VikingElonToken"), InlineKeyboardButton(text="🤠 Website", url="https://vikingelon.com")],
+                     [InlineKeyboardButton(text="📢 News", url="t.me/VikingElon_News"), InlineKeyboardButton(text="❣️ Group", url="t.me/VikingElonToken"), InlineKeyboardButton(text="🤠 Website", url="https://vikingelon.com")],
                      [InlineKeyboardButton(text="➕ Add me to your group ➕", url="t.me/{}?startgroup=true".format(bot.username)) ]]))
     else:
         update.effective_message.reply_text("Not dead ...")
