@@ -1,4 +1,4 @@
-# MT-Rose-Bot-Model - Viking Elon                                                           
+# Viking Elon BOT
                                                   
 [![Join Channel !](https://badgen.net/badge/🔊%20Jᴏɪɴ%20/Cʜᴀɴɴᴇʟ/Black)](https://t.me/VikingElonToken)
 
@@ -15,7 +15,7 @@ To deploy me on heroku, use below button:
 
 ### Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VikingElon/MT-Rose-Bot-Model)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VikingElon/Viking-Elon-BOT)
 
 There is also a [tutorial video](https://youtu.be/wKL90i3cjPw) if you want any help on creating heroku clone.
 
